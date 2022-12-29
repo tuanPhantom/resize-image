@@ -1,5 +1,5 @@
 # Resize-image
-A simple program for resizing image using OpenCV
+A simple program for resizing all images in a folder using OpenCV
 
 ### How to use
 - open this repo's directory in your terminal
